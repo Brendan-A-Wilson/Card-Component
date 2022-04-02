@@ -1,8 +1,29 @@
-html {
-
-}
-
 body {
     width: 100%;
-    min-height: 100vh;
+    max-height: 100vh;
+    background-color: hsl(217, 54%, 11%);
+}
+
+.main-container {
+    border-style: solid 1px;
+    border-radius: 2.8%;
+    border-color: hsl(215, 32%, 27%);
+    width: 380px;
+    height: 650px;
+    background-color: hsl(216, 50%, 16%);
+    margin-top: 130px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-image {
+    display: flex;
+    justify-content: center;
+}
+
+.card-image img {
+    width: 85%;
+    height: auto;
+    border-radius: 2.8%;
+    margin-top: 25px;
 }
