@@ -28,18 +28,37 @@ body {
     margin-top: 25px;
 }
 
-.card-main {
-    margin-top: 20px;
-    margin-left: 20px;
+.card-header {
+    margin-top: 25px;
+    margin-left: 27px;
+    color: hsl(0, 0%, 100%);
 }
 
+.card-main {
+    margin-top: 20px;
+    margin-left: 27px;
+}
 
+.card-header h2 {
+    font-family: "Outfit";
+}
+
+.card-main p {
+    text-align: left;
+    line-height: 1.5;
+    width: 300px;
+    font-family: "Outfit";
+    color: hsl(215, 51%, 70%);
+    font-size: 18px;
+}
 
 .footer p {
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
-    width: 400px;
+    width: 350px;
     text-align: center;
-    color:blanchedalmond;
+    color: hsl(215, 51%, 70%);
+    font-family: "Outfit";
+    line-height: 1.3;
 }
