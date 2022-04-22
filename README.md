@@ -20,7 +20,7 @@ https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U
 * Extract the file by right clicking on it and then click 'extract here'.
 * Open the folder 'Card-Component' and double click on 'index.html' to open the webpage.
 
-* Live Site URL: (https://brendan-a-wilson.github.io/QR-Code-Component/) into the address bar on the web browser.
+* Live Site URL: (https://brendan-a-wilson.github.io/Card-Component/) into the address bar on the web browser.
 
 ## My Process
 
