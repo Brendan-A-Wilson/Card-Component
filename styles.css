@@ -52,6 +52,60 @@ body {
     font-size: 18px;
 }
 
+.card-ethereum {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 27px;
+    margin-right: 27px;
+}
+
+.ethereum-span {
+    font-family: "Outfit";
+    font-size: 18px;
+    color:hsl(178, 100%, 50%);
+    margin-left: 5px;
+    margin-bottom: 2px;
+}
+
+.clock-span {
+    font-family: "Outfit";
+    font-size: 18px;
+    color: hsl(215, 51%, 70%);
+}
+
+hr {
+    width: 85%;
+    border: 1px solid hsl(215, 32%, 27%);
+}
+
+/*Carry on from here*/
+
+.card-footer {
+    margin-left: 27px;
+    margin-top: 20px;
+    display: flex;
+}
+
+.card-footer img {
+    height: 37px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+.card-footer p {
+    font-size: 18px;
+    font-family: "Outfit";
+    color: hsl(215, 51%, 70%);
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.card-footer span {
+    color: white;
+}
+
 .footer p {
     margin-left: auto;
     margin-right: auto;
