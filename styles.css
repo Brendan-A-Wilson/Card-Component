@@ -32,15 +32,16 @@ body {
     margin-top: 25px;
     margin-left: 27px;
     color: hsl(0, 0%, 100%);
+    font-size: small;
+}
+
+.card-header h1 {
+    font-family: "Outfit";
 }
 
 .card-main {
     margin-top: 20px;
     margin-left: 27px;
-}
-
-.card-header h2 {
-    font-family: "Outfit";
 }
 
 .card-main p {
